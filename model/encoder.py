@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: Wenwen Yu
-# @Created Time: 7/7/2020 5:54 PM
-
 from typing import *
 import math
 

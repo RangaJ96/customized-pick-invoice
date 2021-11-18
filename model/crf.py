@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: Wenwen Yu
-# @Created Time: 7/8/2020 10:39 PM
-
 from typing import List, Tuple, Dict
 
 import torch
